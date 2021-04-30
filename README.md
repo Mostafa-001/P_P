@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mutelolo
-- 👀 I’m interested in python programmint and it
+- 👀 I’m interested in python programming and it
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
