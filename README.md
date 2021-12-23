@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mutelolo
-- 👀 I’m interested in python programming and it
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @therealbox_er
+- 👀 I’m interested in python apis 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at telegram
 
 <!---
 mutelolo/mutelolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
